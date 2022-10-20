@@ -50,11 +50,12 @@ html {
 }
 
 body {
-     color: #666666;
+     color: #ffffff;
      font-size: 14px;
      font-family: 'Poppins', sans-serif;
      line-height: 1.80857;
      font-weight: normal;
+     background-color: white;
 }
 
 
@@ -654,13 +655,14 @@ button {
     font-weight: normal;
     font-size: 17px;
     line-height: 30px;
-    color: #111111;
+    color: #ffee00;
     padding: 35px 0px 50px 0px;
 }
 
 
 .about_img figure {
      margin: 0;
+    
 }
 
 /** end about section **/
